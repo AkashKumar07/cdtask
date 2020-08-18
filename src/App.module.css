@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 100px;
+}
+
+.title{
+    color: #444444;
+    margin: 0
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

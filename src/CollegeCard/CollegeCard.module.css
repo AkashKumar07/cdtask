@@ -1,0 +1,220 @@
+.card {
+    height: 390px;
+    width: 49%;
+    margin-top: 40px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 grey;
+}
+
+.cardtop{
+    height: 234px;
+    position: relative;
+    background-image: url("college_02.jpg"), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-blend-mode: overlay;
+    background-size:cover;
+    background-position: center;
+}
+
+.pointer {
+    display: flex;
+    justify-content: center;
+    width: 152px;
+    height: 33px;
+    position: absolute;
+    top: -20px;
+    right: 0;
+    background-color: skyblue;
+    border-radius: 0px 10px
+  }
+
+.pointer p{
+    color: white;
+    margin: 0;
+    padding-top: 3px;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.rates{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #f5a626;
+    padding: 10px;
+    margin-top: 18px;
+    margin-right: 6px;
+    border-radius: 5px;
+    width: 80px;
+}
+
+.ratess{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.rates p{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.cardtopbottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 105px;
+}
+
+.tags{
+    display: flex;
+}
+
+.tag{
+    background-color: white;
+    margin: 5px;
+    padding: 6px;
+    border-radius: 20px;
+}
+
+.tag p{
+    margin: 0;
+    text-align: center;
+    padding: 0 5px;
+    color: #444444
+}
+
+.cardbottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.cardbottomleft{
+    display: flex;
+    flex-direction: column;
+}
+
+.collegeName{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    margin-bottom: 11.5px;
+}
+
+.collegeName p{
+    margin: 0;
+}
+
+.nearestPlace{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    margin-bottom: 11.5px;
+}
+
+.nearestPlace p{
+    margin: 0;
+}
+
+.famousNearestPlace {
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    margin-bottom: 11.5px;
+}
+
+.famousNearestPlace p{
+    margin: 0
+}
+
+.offerText{
+    display: flex;
+    background-color: #ccf5e7;
+    padding-left: 10px;
+    border-radius: 0 15px 15px 0;
+    padding-top: 6px;
+    padding-bottom:6px ;
+    width: 90%;
+    /* margin-right: 5px; */
+}
+
+.offerText p{
+    margin: 0;
+}
+
+.cardbottomright{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+}
+
+
+.discountOffer{
+      display: flex;
+      flex-direction: row-reverse;
+  }
+  
+.discountOffer p{
+      margin: 0
+  }
+
+.discountedFee {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0;
+}
+
+.discountedFee p{
+    margin: 0;
+}
+
+.amenties{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.amenties p {
+    margin: 0
+}
+
+.grenyBlue{
+    color: #37b396
+}
+
+.grey{
+    color: #adadad
+}
+
+.blue{
+    color: #39aacc
+}
+
+.tagIcon{
+    color: #dd1c26;
+    transform: rotate(-45deg);
+    position: relative;
+}
+
+.tagText{
+    position: absolute;
+    transform: rotate(45deg);
+    color: white;
+    font-size: 10px;
+    top: 6px;
+    right: 6px;
+}
+
+.root{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-left: 4px;
+    font-size: 14px;
+}
+
