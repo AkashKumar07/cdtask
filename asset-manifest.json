@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/collegeDuniaTask/static/css/main.a36eda0c.chunk.css",
-    "main.js": "/collegeDuniaTask/static/js/main.16097ce2.chunk.js",
-    "main.js.map": "/collegeDuniaTask/static/js/main.16097ce2.chunk.js.map",
-    "runtime-main.js": "/collegeDuniaTask/static/js/runtime-main.fd85eadd.js",
-    "runtime-main.js.map": "/collegeDuniaTask/static/js/runtime-main.fd85eadd.js.map",
-    "static/js/2.fa7ae0e6.chunk.js": "/collegeDuniaTask/static/js/2.fa7ae0e6.chunk.js",
-    "static/js/2.fa7ae0e6.chunk.js.map": "/collegeDuniaTask/static/js/2.fa7ae0e6.chunk.js.map",
-    "index.html": "/collegeDuniaTask/index.html",
-    "precache-manifest.7f1486b6de3a709b7067f3b3806f3e35.js": "/collegeDuniaTask/precache-manifest.7f1486b6de3a709b7067f3b3806f3e35.js",
-    "service-worker.js": "/collegeDuniaTask/service-worker.js",
-    "static/css/main.a36eda0c.chunk.css.map": "/collegeDuniaTask/static/css/main.a36eda0c.chunk.css.map",
-    "static/js/2.fa7ae0e6.chunk.js.LICENSE.txt": "/collegeDuniaTask/static/js/2.fa7ae0e6.chunk.js.LICENSE.txt",
-    "static/media/CollegeCard.module.css": "/collegeDuniaTask/static/media/college_02.619ee97e.jpg"
+    "main.css": "/cdtask/static/css/main.55c0c136.chunk.css",
+    "main.js": "/cdtask/static/js/main.ebe26302.chunk.js",
+    "main.js.map": "/cdtask/static/js/main.ebe26302.chunk.js.map",
+    "runtime-main.js": "/cdtask/static/js/runtime-main.1344a7f5.js",
+    "runtime-main.js.map": "/cdtask/static/js/runtime-main.1344a7f5.js.map",
+    "static/js/2.fa7ae0e6.chunk.js": "/cdtask/static/js/2.fa7ae0e6.chunk.js",
+    "static/js/2.fa7ae0e6.chunk.js.map": "/cdtask/static/js/2.fa7ae0e6.chunk.js.map",
+    "index.html": "/cdtask/index.html",
+    "precache-manifest.dda75e497351a3c3318c524c8eff081c.js": "/cdtask/precache-manifest.dda75e497351a3c3318c524c8eff081c.js",
+    "service-worker.js": "/cdtask/service-worker.js",
+    "static/css/main.55c0c136.chunk.css.map": "/cdtask/static/css/main.55c0c136.chunk.css.map",
+    "static/js/2.fa7ae0e6.chunk.js.LICENSE.txt": "/cdtask/static/js/2.fa7ae0e6.chunk.js.LICENSE.txt",
+    "static/media/CollegeCard.module.css": "/cdtask/static/media/college_02.619ee97e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd85eadd.js",
+    "static/js/runtime-main.1344a7f5.js",
     "static/js/2.fa7ae0e6.chunk.js",
-    "static/css/main.a36eda0c.chunk.css",
-    "static/js/main.16097ce2.chunk.js"
+    "static/css/main.55c0c136.chunk.css",
+    "static/js/main.ebe26302.chunk.js"
   ]
 }
